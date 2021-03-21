@@ -1,0 +1,16 @@
+body{
+  display: flex;
+  justify-content:center;
+  text-align: center;
+}
+
+/* #img-div{
+  display: block;
+  height: auto;
+} */
+
+img{
+  display: block;
+  height: auto;
+  max-width: 100%
+}
